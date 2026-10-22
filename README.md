@@ -1,12 +1,15 @@
-## Bonjour, je suis Rrudhani Deaa 👋
+## Bonjour, je suis Rrudhani Deaa 
 
 Étudiante en **réseaux et systèmes informatiques** au **Geneva Institute of Technology** (classe E1A), je construis des bases solides en infrastructure pour m'orienter vers la **cybersécurité**, la **sécurité cloud** et le **DevSecOps**.
 
-🎯 **Je recherche un stage** dans la région de Genève / Haute-Savoie (réseau, systèmes, sécurité).
+ ### Ma formation
+Je suis en première année au **Geneva Institute of Technology**. Mon école fonctionne en alternance :
+**1 semaine de cours**, puis **3 semaines de PPE** (projets pratiques encadrés).
+Pendant ces 3 semaines de PPE, je peux être en stage en entreprise. Ça me permet de travailler chez vous de façon régulière tout au long de l'année, sans manquer ma formation..
 
 ---
 
-### 🔧 Ce que je pratique
+###  Ce que je pratique
 
 | Domaine | Outils et notions |
 |---|---|
@@ -16,7 +19,7 @@
 | **Sécurité** | Segmentation réseau, pare-feu ACL et nftables, VPN IPsec, durcissement de l'accès administrateur, analyse de trafic |
 | **En apprentissage** | Sécurité cloud, DevSecOps (CI/CD, scan de secrets), automatisation |
 
-### 📂 Projets à la une
+###  Projets à la une
 
 | Projet | Description |
 |---|---|
@@ -25,11 +28,11 @@
 | [**virtualization-labs**](https://github.com/drrdh23/virtualization-labs) | 5 missions PME : labo isolé avec **pare-feu nftables**, PRA par snapshots (RTO/RPO), migration P2V avec contrôle d'intégrité, benchmark VMware vs Proxmox |
 | [**network-labs-gns3**](https://github.com/drrdh23/network-labs-gns3) | 4 labs progressifs : LAN, VLAN, **routeur pare-feu par ACL**, diagnostic de panne OSI |
 
-### 🧭 Ma démarche
+###  Ma démarche
 
 Chaque projet est documenté comme en entreprise : objectif, plan d'adressage, étapes, tests de validation et **analyse sécurité avec pistes d'amélioration**. Les secrets (mots de passe, clés VPN) sont systématiquement retirés avant publication.
 
-### 📫 Me contacter
+###  Me contacter
 
-- LinkedIn : *à compléter*
-- E-mail : *à compléter*
+- LinkedIn : *Deaa Rrudhani*
+- E-mail : *deaa.rrudhani@git.ch*
